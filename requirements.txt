@@ -1,0 +1,5 @@
+datasets==1.11.0
+transformers==4.9.2
+torch
+Pillow
+requests
